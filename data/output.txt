@@ -1,0 +1,458 @@
+Anantapur Division
+Chittoor Division
+Cuddapah Division
+Hindupur Division
+Kurnool Division
+Nandyal Division
+Proddatur Division
+Tirupati Division
+Bhimavaram Division
+Eluru Division
+Gudivada Division
+Gudur Division
+Guntur Division
+Machilipatnam Division
+Narasaraopet Division
+Nellore Division
+Prakasam Division
+Tadepalligudem Division
+Tenali Division
+Vijayawada Division
+Amalapuram Division
+Anakapalle Division
+Kakinada Division
+Parvathipuram Division
+Rajahmundry Division
+Srikakulam Division
+Visakhapatnam Division
+Vizianagaram Division
+Cachar Division
+Darrang Division
+Goalpara Division
+Guwahati Division
+Nalbari Division
+Dibrugarh Division
+Nagaon Division
+Sibsagar Division
+Tinsukia Division
+AurangabadBihar Division
+Bhojpur Division
+Gaya Division
+Patna Division
+Patna GPO Division
+Rohtas Division
+Vaishali Division
+Begusarai Division
+Bhagalpur Division
+Divisional Office Katihar
+Munger Division
+Nalanda Division
+Nawadha Division
+Saharsa Division
+Samastipur Division
+Darbhanga Division
+East Champaran Division
+Madhubani Division
+Muzaffarpur Division
+Purnea Division
+Saran Division
+Sitamarhi Division
+Siwan Division
+West Champaran Division
+Bilaspur Division
+Durg Division
+Raigarh Division
+Raipur Division
+Bastar Division
+Delhi East Division
+Delhi GPO Division
+Delhi North Division
+New Delhi Central Division
+New Delhi GPO Division
+New Delhi South Division
+New Delhi South West Division
+New Delhi West Division
+Ahmedabad City Division
+Ahmedabad GPO Division
+Banaskantha Division
+Gandhinagar Division
+Mahesana Division
+Patan Division
+Sabarkantha Division
+Amreli Division
+Bhavnagar Division
+Gondal Division
+Jamnagar Division
+Junagadh Division
+Kutch Division
+Porbandar Division
+Rajkot Division
+Surendranagar Division
+Anand Division
+Bardoli Division
+Bharuch Division
+Kheda Division
+Navsari Division
+Panchmahals Division
+Surat Division
+Vadodara East Division
+Vadodara West Division
+Valsad Division
+Ambala Division
+Bhiwani Division
+Faridabad Division
+Gurgaon Division
+Hissar Division
+Karnal Division
+Kurukshetra Division
+Rohtak Division
+Sonepat Division
+Chamba Division
+Dehra Gopipur Division
+Dharamsala Division
+Hamirpur Division
+Mandi Division
+Rampur Bushahr Division
+Shimla Division
+Solan Division
+Una Division
+Baramulla Division
+Jammu Division
+Rajouri Division
+Srinagar Division
+Udhampur Division
+Leh Division
+Dhanbad Division
+Giridih Division
+Hazaribagh Division
+Palamau Division
+Ranchi Division
+Santhal Parganas Division
+Singhbhum Division
+BANGALORE GPO DIVISION
+Bengaluru East Division
+Bengaluru South Division
+Bengaluru West Division
+Channapatna Division
+Bagalkot Division
+Ballari Division
+Belagavi Division
+Bidar Division
+Chikodi Division
+Dharwad Division
+Gadag Division
+Gokak Division
+Haveri Division
+Kalaburagi Division
+Karwar Division
+Raichur Division
+Sirsi Division
+Vijayapura Division
+Chikkamagaluru Division
+Chitradurga Division
+Hassan Division
+Kodagu Division
+Kolar Division
+Mandya Division
+Mangaluru Division
+Mysuru Division
+Nanjangud Division
+Puttur Division
+Shivamogga Division
+Tumakuru Division
+Udupi Division
+Pathanamthitta Division
+Quilon Division
+Tiruvalla Division
+Trivandrum North Division
+Trivandrum South Division
+Calicut Division
+Cannanore Division
+Kasaragod Division
+Manjeri Division
+Ottapalam Division
+Palghat Division
+Thalassery Division
+Tirur Division
+Vadakara Division
+Alleppey Division
+Alwaye Division
+Changanacherry Division
+Ernakulam Division
+Idukki Division
+Irinjalakuda Division
+Kottayam Division
+Lakshadweep Division
+Mavelikara Division
+Trichur Division
+Balaghat Division
+Bhopal Division
+Chhatarpur Division
+Chhindwara Division
+Hoshangabad Division
+Rewa Division
+Sagar Division
+Shahdol Division
+Vidisha Division
+Guna Division
+Gwalior Division
+Indore City Division
+Indore Moffusil Division
+Jabalpur Division
+Khandwa Division
+Mandsaur Division
+Morena Division
+Ratlam Division
+Sehore Division
+Ujjain Division
+Mandla Division
+Aurangabad Division
+Beed Division
+Bhusaval Division
+Dhule Division
+Jalgaon Division
+Nanded Division
+Osmanabad Division
+Pharbhani Division
+Goa Division
+Kolhapur Division
+RATNAGIRI DIVISION
+SANGLI DIVISION
+SINDHUDURG DIVISION
+Mumbai City East Division
+Mumbai City North Division
+Mumbai City North East Division
+Mumbai City North West Division
+Mumbai City South Division
+Mumbai City West Division
+Mumbai GPO Division
+Akola Division
+Amaravati Division
+Buldana Division
+Chandrapur Division
+Nagpur City Division
+Nagpur Moffusil Division
+Wardha Division
+Yeotmal Division
+Malegaon Division
+Nasik Division
+Navi Mumbai Division
+Palghar Division
+Raigad Division
+Thane Division
+Ahmednagar Division
+Pandharpur Division
+Pune City East Division
+Pune City West Division
+Pune Moffusil Division
+Satara Division
+Shrirampur Division
+Solapur Division
+Manipur Division
+Mizoram Division
+Nagaland Division
+Agartala Division
+Arunachal Pradesh Division
+Dharmanagar Division
+Meghalaya Division
+Balasore Division
+Bhadrak Division
+Bhubaneswar Division
+Cuttack City Division
+Cuttack North Division
+Cuttack South Division
+Mayurbhanj Division
+Puri Division
+Aska Division
+Berhampur Division
+Kalahandi Division
+Koraput Division
+Phulbani Division
+Rayagada Division
+Balangir Division
+Dhenkanal Division
+Keonjhar Division
+Sambalpur Division
+Sundargarh Division
+Chandigarh Division
+Ludhiana City Division
+Ludhiana Moffusil Division
+Patiala Division
+Sangrur Division
+Amritsar Division
+Bhatinda Division
+Faridkot Division
+Ferozpur Division
+Gurdaspur Division
+Hoshiarpur Division
+Jalandhar Division
+Kapurthala Division
+Alwar Division
+Bharatpur Division
+Dholpur Division
+Jaipur City Division
+Jaipur Moffusil Division
+Sawaimadhopur Division
+Ajmer Division
+Beawar Division
+Bhilwara Division
+Chittorgarh Division
+Dungarpur Division
+Kota Division
+Tonk Division
+Udaipur Division
+Barmer Division
+Bikaner Division
+Churu Division
+Jhunjhunu Division
+Jodhpur Division
+Nagaur Division
+Pali Division
+Sikar Division
+Sirohi Division
+Sriganganagar Division
+Cuddalore Division
+Karur Division
+Kumbakonam Division
+Mayiladuthurai Division
+Nagapattinam Division
+Pattukottai Division
+Pudukkottai Division
+Srirangam Division
+Thanjavur Division
+Tiruchirapalli Division
+Vriddhachalam Division
+Anna Road H.O Division
+Arakkonam Division
+Chengalpattu Division
+Chennai City Central Division
+Chennai City North Division
+Chennai City South Division
+Chennai GPO Division
+Kanchipuram Division
+Pondicherry Division
+Tambaram Division
+Tiruvannamalai Division
+Vellore Division
+Dindigul Division
+Kanniyakumari Division
+Karaikudi Division
+Kovilpatti Division
+Madurai Division
+Ramanathapuram Division
+Sivaganga Division
+Theni Division
+Tirunelveli Division
+Tuticorin Division
+Virudhunagar Division
+Coimbatore Division
+Dharmapuri Division
+Erode Division
+Krishnagiri Division
+Namakkal Division
+Nilgiris Division
+Pollachi Division
+Salem East Division
+Salem West Division
+Tirupattur Division
+Tirupur Division
+Hyderabad City Division
+Hyderabad GPO Division
+Hyderabad South East Division
+Medak Division
+Sangareddy Division
+Secunderabad Division
+Adilabad Division
+Hanamkonda Division
+Karimnagar Division
+Khammam Division
+Mahabubnagar Division
+Nalgonda Division
+Nizamabad Division
+Peddapalli Division
+Suryapet Division
+Wanaparthy Division
+Warangal Division
+Agra Division
+Aligarh Division
+Bulandshahar Division
+Etah Division
+Etawah Division
+Jhansi Division
+Mainpuri Division
+Mathura Division
+Allahabad Division
+Ghazipur Division
+Mirzapur Division
+Pratapgarh Division
+Sultanpur Division
+Bareilly Division
+Bijnor Division
+Budaun Division
+Hardoi Division
+Kheri Division
+Meerut Division
+Moradabad Division
+Muzaffarnagar Division
+Saharanpur Division
+Shahjahanpur Division
+Azamgarh Division
+Bahraich Division
+Basti Division
+Deoria Division
+Gonda Division
+Gorakhpur Division
+Banda Division
+Fatehgarh Division
+Fatehpur Division
+Kanpur City Division
+Kanpur HO Division
+Kanpur Moffusil Division
+Barabanki Division
+Faizabad Division
+Ghaziabad Division
+Lucknow Division
+Lucknow GPO Division
+Rae Bareilly Division
+Sitapur Division
+Ballia Division
+Jaunpur Division
+Varanasi East Division
+Varanasi West Division
+Almora Division
+Chamoli Division
+Dehradun Division
+Nainital Division
+Pauri Division
+Pithoragarh Division
+Tehri Division
+Sikkim Division
+A - N Islands Division
+Alipore H.O Division
+Barasat Division
+Birbhum Division
+Kolkata Central Division
+Kolkata East Division
+Kolkata GPO Division
+Kolkata North Division
+Murshidabad Division
+Nadia North Division
+Nadia South Division
+North Presidency Division
+South Kolkata Division
+South Presidency Division
+Cooch Behar Division
+Darjeeling Division
+Dinajpur Division
+Jalpaiguri Division
+Malda Division
+Asansol Division
+Bankura Division
+Burdwan Division
+Contai Division
+Hooghly North Division
+Hooghly South Division
+Howrah Division
+Midnapore Division
+Purulia Division
+Tamluk Division

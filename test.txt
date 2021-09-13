@@ -1,0 +1,36 @@
+Arunachal Pradesh:AP:79
+Assam:AS:78
+Bihar:BR:80-85
+Chhattisgarh:CG:49
+Goa:GA:403
+Gujarat:GJ:36-39
+Haryana:HR:12-13
+Himachal Pradesh:HP:17
+Jammu and Kashmir:JK:18-19
+Jharkhand:JH:80-83
+Karnataka:KA:56-59
+Kerala:KL:67-69
+Madhya Pradesh:MP:45-48
+Maharashtra:MH:40-44
+Manipur:MN:79
+Meghalaya:ML:79
+Mizoram:MZ:79
+Nagaland:NL:79
+Orissa:OR:75-77
+Punjab:PB:16
+Rajasthan:RJ:30-34
+Sikkim:SK:737
+Tamil Nadu:TN:60-64
+Tripura:TR:79
+Uttarakhand:UK:24-26
+Uttar Pradesh:UP:20-28
+West Bengal:WB:70-74
+Tamil Nadu:TN:60-64
+Tripura:TR:79
+Andaman and Nicobar Islands:AN:744
+Chandigarh:CH:160
+Dadra and Nagar Haveli:DH:396
+Daman and Diu:DD:396
+Delhi:DL:11
+Lakshadweep:LD:682
+Pondicherry:PY:60
